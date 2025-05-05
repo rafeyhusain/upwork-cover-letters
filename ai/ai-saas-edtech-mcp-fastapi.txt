@@ -1,0 +1,34 @@
+Hello and Good day,
+
+My name is Rafey. I have 27+ years of experience in developing and scaling SaaS platforms with AI integrations.
+
+I have extensively worked on Python, RAG, AI Agentic Systems, MCP, pyTorch, Azure Open AI Service, LangChain, FAISS, AI Vector Databases, Stack AI, AI Chatbots using Botpress. I have worked on EdTech and LMS. e.g.
+
+1. Aljazeera Media Network Qatar, Moodle based training center
+2. Complete Edtech system for admins, teachers and students for Taxes Law University USA. 
+3. Built charity Edtech https://educationaljustice.org
+
+Your need for a lightweight, secure FastMCP façade that bridges modern AI MCP agents to existing REST infrastructure aligns perfectly with my strengths. I have built a Claud Desktop-based MCP for FastAPI REST backends for a telehealth platform for Appedology Pvt. Ltd. Doctors could upload 600+ pages of PDF and the AI pipeline generates summaries, medical issues, medication, procedure details, etc. The MCP Agent on top of the REST API helps doctors to use the Claud Desktop to research patient conditions like Vitamins, Symptoms, etc.
+
+With 27+ years in software engineering and deep expertise in Python, FastAPI, AI integration, JWT/API development, and Cloud platforms, I bring both the technical know-how and AI expertise. This is needed to deliver scalable AI solutions using Docker, Kubernetes, Cloud and Python AI libraries. For example, I have recently developed the following AI systems:
+
+1. SCEAI Qatari AI, Data and Analytics Portal (B2G BI Portal. Used Azure AI/.NET) 
+2. RAG Q&A System (Python, Hugging Face, Google Flan T5)
+3. Designed around a dozen AI products at AI consultancy SeaWingAI.com
+
+I am an AI and ML Integration expert with experience embedding AI/ML features into live systems using tools like OpenAI, LangChain, and custom ML models.
+
+I am skilled in aligning backend AI logic with smooth frontend user experiences. I also have cloud expertise and have extensive work with Azure, AWS, and GCP, ensuring secure and performant deployment of AI-enhanced features.
+
+I’ve helped clients build intelligent automation, personalized user experiences, and advanced analytics.
+
+Let’s connect to discuss how I can bring your vision to life, quickly and reliably.
+
+Looking forward to hearing from you.
+
+I would be very happy to help you out with your AI vision.
+
+Warm regards,
+Rafey
+Top Rated | Senior Cloud & AI Engineer | .NET | Azure | Python | ML
+

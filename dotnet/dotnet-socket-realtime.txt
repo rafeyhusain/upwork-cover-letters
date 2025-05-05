@@ -1,0 +1,37 @@
+Hello and Good day,
+
+My name is Rafey. I have 27+ years of experience in architecting and scaling Microsoft .NET Socket and WebRTC platforms.
+
+I’m a seasoned C# .NET developer with deep expertise in network programming and media handling, especially in the context of real-time communication and collaborative platforms. I believe I can bring immediate value to your project based on my proven experience in building scalable and robust network-driven systems. For example,
+
+1. Previously, I built the ApexChat chat server using WebRTC, where I designed the signaling logic, media negotiation, and real-time text/audio communication layers. 
+
+2. Additionally, I developed InfinityChess, a multiplayer online chess platform with a custom .NET TCP Socket-based game server, managing thousands of concurrent connections with minimal latency.
+
+I can develop Microsoft Teams Bot Framework based system. I understand the intricacies of media flow, authentication, and activity/message routing within Teams integrations. My approach emphasizes clean architecture, secure data handling, and real-time performance.
+
+Other .NET systems I built are:
+
+1. GET ERP SaaS (ERP/CRM middleware SaaS for retail industry. Used Azure/.NET)
+2. ApexChat Realtime Chat SaaS (B2C Chat SaaS. Used .NET at backend)
+3. SCEAI Qatari AI, Data and Analytics Portal (B2G BI Portal. Used Azure/.NET) 
+
+I am thoroughly experienced in Microservices, Distributed Systems, Event-Driven Design, and Scalable Infrastructure. Including Cloud & DevOps – AWS, Azure, GCP, Kubernetes, Docker, CI/CD, and Serverless Computing.
+
+Let’s discuss how I can contribute to building a robust backend. I’m ready to start right away.
+
+I’ve architected and modularized large-scale Node.js and Python applications across healthcare, fintech, and cloud SaaS. For Example,
+
+1. TaksQue SaaS (A project management SaaS platform. Used AWS/Laravel)
+2. PopSocial (A Crypto SasS. Used AWS/Springboot)
+3. TradeSun (AI powered Trade Finance SaaS. Used AWS/NodeJS)
+4. AARP MoneyMap (A personal finance SaaS. Used AWS/Apollo Client/Apollo Server/GraphQL)
+5. SmallWorld (A money transfer SaaS. Used AWS/Springboot)
+
+Looking forward to hearing from you.
+
+I would be very happy to help you out in resolving your issues.
+
+Warm regards,
+Rafey
+Top Rated | Senior Software Architect | .NET & Azure Specialist | WebRTC | TCP Sockets

@@ -1,0 +1,29 @@
+Hello and Good day,
+
+My name is Rafey. I am Senior Software Architect. I have 27+ years of experience in architecting and scaling Microsoft .NET and Azure/AWS SaaS platforms.
+
+I have extensively worked on .NET, .NET Core, .NET MVC and Azure. I have worked on dozens of systems with Azure Functions, App Services, Logic Apps, Key Vault and Azure SQL API. For example,
+
+1. GET ERP SaaS (ERP/CRM middleware SaaS for retail industry. Used Azure/.NET)
+2. ApexChat Realtime Chat SaaS (B2C Chat SaaS. Used .NET at backend)
+3. SCEAI Qatari AI, Data and Analytics Portal (B2G BI Portal. Used Azure/.NET) 
+
+I am throughly experienced in Microservices, Distributed Systems, Event-Driven Design, and Scalable Infrastructure. Including Cloud & DevOps – AWS, Azure, GCP, Kubernetes, Docker, CI/CD, and Serverless Computing.
+
+Let’s discuss how I can contribute to building a robust backend. I’m ready to start right away.
+
+I’ve architected and modularized large-scale Node.js and Python applications across healthcare, fintech, and cloud SaaS. For Example,
+
+1. TaksQue SaaS (A project management SaaS platform. Used AWS/Laravel)
+2. PopSocial (A Crypto SasS. Used AWS/Springboot)
+3. TradeSun (AI powered Trade Finance SaaS. Used AWS/NodeJS)
+4. AARP MoneyMap (A personal finance SaaS. Used AWS/Apollo Client/Apollo Server/GraphQL)
+5. SmallWorld (A money transfer SaaS. Used AWS/Springboot)
+
+Looking forward to hearing from you.
+
+I would be very happy to help you out in resolving your issues.
+
+Warm regards,
+Rafey
+Top Rated | Senior Software Architect | .NET & Azure Specialist | DevOps | Kubernetes

@@ -1,0 +1,27 @@
+Hello and Good day,
+
+My name is Rafey. I have 27+ years of experience in developing and scaling SaaS platforms with AI integrations.
+
+I have extensively worked on Python, RAG, AI Agentic Systems, MCP, pyTorch, Azure Open AI Service, LangChain, FAISS, AI Vector Databases, Stack AI, AI Chatbots using Botpress. 
+
+With 27+ years in software engineering and deep expertise in AI integration, API development, and cloud platforms, I bring both the technical know-how and strategic vision needed to deliver seamless, scalable solutions. For example, I have recently developed the following AI systems:
+
+1. SCEAI Qatari AI, Data and Analytics Portal (B2G BI Portal. Used Azure AI/.NET) 
+2. RAG Q&A System (Python, HuggingFace, Google Flan T5)
+3. Designed around a dozen AI products at my own AI consultancy SeaWingAI.com
+
+I am an AI and ML Integration expert with experience embedding AI/ML features into live systems using tools like OpenAI, LangChain, and custom ML models.
+
+I am skilled in aligning backend AI logic with smooth frontend user experiences. I also have cloud expertise and have extensive work with Azure, AWS, and GCP, ensuring secure and performant deployment of AI-enhanced features.
+
+I’ve helped clients build intelligent automation, personalized user experiences, and advanced analytics.
+
+Let’s connect to discuss how I can bring your vision to life, quickly and reliably.
+
+Looking forward to hearing from you.
+
+I would be very happy to help you out with your AI vision.
+
+Warm regards,
+Rafey
+Top Rated | Senior Cloud & AI Engineer | .NET | Azure | Python | ML

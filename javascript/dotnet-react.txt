@@ -1,0 +1,38 @@
+Hello [Client's Name],
+
+My name is Rafey, and I’m a Full Stack Software Engineer with over 27 years of experience delivering high-performance SaaS platforms across fintech, AI, healthcare, and enterprise sectors. I specialize in TypeScript, React/React Native, .NET, PostgreSQL, and modern AI integrations, and I thrive when working directly with founders to turn vision into robust, production-grade systems.
+
+Over the years, I’ve built and scaled multiple SaaS platforms. For example,
+
+- GET ERP – ERP/CRM middleware for retail (React/.NET)
+
+- ApexChat – Real-time chat SaaS with WebRTC (React/.NET)
+
+- PopSocial – Crypto social platform (React/Spring Boot/AWS)
+
+- TradeSun – AI-powered trade finance SaaS (React/Node.js/AWS)
+
+- AARP MoneyMap – Personal finance management SaaS (React/GraphQL/Apollo/AWS)
+
+- SmallWorld – International money transfer system (React/Spring Boot/AWS)
+
+- TaksQue – Project management SaaS (Laravel/AWS)
+
+I have also built AI, Data, and Analytics platforms. For example,
+
+- SCEAI – Qatari government AI & analytics portal (Next.js/.NET/Azure AI)
+
+- RAG Q&A System – Python-based Retrieval-Augmented Generation system using Hugging Face and Google FLAN-T5
+
+- SeaWingAI.com – Designed and delivered a dozen AI-driven products including RAG pipelines, AI agents, and data visualizations
+
+- Telehealth AI MCP – A Claude-based desktop app integrated with FastAPI REST backend, summarizing 600+ page PDFs for diagnosis and treatment insights
+
+I’m fluent with tools like Prisma, Vercel, Stripe, OpenAI APIs, LangChain, FAISS, Hugging Face, and Azure OpenAI. I write clean, modular, and well-documented code, move fast, and deliver results with clarity and accountability.
+
+If you’re building a fast-moving, AI-driven SaaS product, I’d love to bring my experience to your team and help you ship something exceptional—quickly and reliably.
+
+Let’s connect to discuss how I can contribute from day one.
+
+Warm regards,
+Rafey
