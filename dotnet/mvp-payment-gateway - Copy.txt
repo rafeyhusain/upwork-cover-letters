@@ -1,0 +1,39 @@
+Hello and Good day,
+
+My name is Rafey. I have 27+ years of experience in architecting and scaling Microsoft and .NET platforms which is required for your greenfield Payment Gateway Services MVP. With software development experience, including deep expertise in .NET Core, microservices architecture, and identity management systems like KeyCloak, Azure B2C, AWS Cognito, Auth0, I am confident in my ability to contribute meaningfully to the success of this project.
+
+Throughout my career, I have designed and implemented secure, modular, and scalable backend systems across financial, AI, and SaaS domains. I have built microservices for transaction processing, authentication, onboarding flows, and real-time reporting. My hands-on experience with ASP.NET Core Identity, OAuth2, OpenID Connect, MSSQL, RabbitMQ, Kafka, and MySQL makes me a strong fit for this role’s technical demands.
+
+I’m a seasoned C# .NET developer with deep expertise in CICD, especially in the context of financial platforms. I believe I can bring immediate value to your project based on my proven experience in building scalable and secure systems. For example,
+
+- SCEAI Qatari AI, Data and Analytics Portal (B2G BI Portal. Used Azure/.NET) 
+
+- ApexChat (Chat server using .NET/WebRTC, signaling logic, media negotiation, and real-time text/audio communication layers)
+
+- InfinityChess (A multiplayer online chess platform with a custom .NET TCP Socket-based game server, managing thousands of concurrent connection)
+
+- GET ERP SaaS (ERP/CRM middleware SaaS for retail industry. Used Azure/.NET)
+
+I am thoroughly experienced in Microservices, Distributed Systems, Event-Driven Design, and Scalable Infrastructure. Including Cloud & DevOps – AWS, Azure, GCP, Kubernetes, Docker, CI/CD, and Serverless Computing.
+
+Let’s discuss how I can contribute to building a robust backend. I’m ready to start right away.
+
+I’ve architected and modularized large-scale Node.js and Python applications across healthcare, fintech, and cloud SaaS. For Example,
+
+- TaksQue SaaS (A project management SaaS platform. Used AWS/Laravel)
+
+- PopSocial (A Crypto SasS. Used AWS/Springboot)
+
+- TradeSun (AI powered Trade Finance SaaS. Used AWS/NodeJS)
+
+- AARP MoneyMap (A personal finance SaaS. Used AWS/Apollo Client/Apollo Server/GraphQL)
+
+- SmallWorld (A money transfer SaaS. Used AWS/Springboot)
+
+Looking forward to hearing from you.
+
+I would be very happy to help you out in resolving your issues.
+
+Warm regards,
+Rafey
+Top Rated | Full Stack .NET Core Developer | .NET & Azure Specialist | CICD

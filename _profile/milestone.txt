@@ -1,0 +1,12 @@
+create 3 columns milestones table with columns 
+
+1. Milestone - xxx 
+2. Due date if started from 10/05/2025
+3. Cost if total cost is $500
+
+create 4 columns milestones table with columns
+
+1. Milestone - xxx 
+2. Due date if started from 10/05/2025
+3. Estimated Hours
+3. Cost for hourly rate $30/hr

@@ -1,0 +1,21 @@
+This role offers the opportunity to create new products from the ground up, significantly influence product direction and the engineering roadmap, participate in building our voice team culture, and ultimately shape the future of restaurant technology. Your efforts will enhance customer interactions, ensuring a seamless and enjoyable experience.
+This role is 100% remote, full-time.
+Essential Job Functions
+● Backend Development: Design, implement, and maintain scalable backend systems to support real-time audio processing and streaming.
+● Audio Systems Engineering: Develop and optimize real-time audio pipelines for voice interaction, integrating algorithms for speech enhancement, noise reduction, and multi-channel processing.
+● Python Development: Write efficient, maintainable Python code for backend services, real-time audio processing tools, and system integrations.
+● Collaborative Problem-Solving: Work with cross-functional teams, including AI/ML engineers and product managers, to ensure seamless integration of audio and backend systems.
+● Code Excellence: Write clean, maintainable code, debug issues efficiently, and optimize for performance and reliability.
+● Innovation: Explore and implement cutting-edge technologies in audio processing and backend engineering to future-proof our systems.
+
+Qualifications
+● Bachelor’s degree or higher in software engineering or other relevant education with multiple years of industry experience in computer science or engineering.
+● Experience with real-time streaming protocols, multi-threaded programming, and performance optimization, particularly in audio applications is a plus
+● Experience with implementing and optimizing DSP algorithms such as filtering, echo cancellation, voice activity detection, source separation, and noise suppression for real-time audio systems.
+● Experience with developing building backend systems and integrations in Python
+● Passion for exploring emerging technologies and applying them to solve real-world problems
+● Good problem-solving skills and ability to work independently and in a team.
+● Strong communication skills for explaining technical ideas to various audiences.
+● Understanding of conversational English and experience with voice programs/products.
+● This role requires working in the US shift hours till 5 pm ET and with your own device.
+● This role requires working 40 hrs/week.

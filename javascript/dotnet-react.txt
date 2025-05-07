@@ -1,4 +1,4 @@
-Hello [Client's Name],
+Hello and Good day,
 
 My name is Rafey, and I’m a Full Stack Software Engineer with over 27 years of experience delivering high-performance SaaS platforms across fintech, AI, healthcare, and enterprise sectors. I specialize in TypeScript, React/React Native, .NET, PostgreSQL, and modern AI integrations, and I thrive when working directly with founders to turn vision into robust, production-grade systems.
 

@@ -1,0 +1,52 @@
+Hello and Good Morning,
+
+My name is Rafey, and I’m a Full Stack Software Engineer with deep experience in the crypto SocialFi industry. I was the lead developer of Crypto website PopSocial.io and its associated $PPT token mobile and web apps. This platform combined decentralized social networking with tokenized rewards, and involved smart contract integrations, tokenomics, and crypto wallet connectivity.
+
+For PopSocial, I built:
+
+- A multi-platform app (React + React Native)
+
+- Web3 wallet integration
+
+- Presale and token distribution mechanisms
+
+- Secure smart contract interactions
+
+- Auto-allocation and dashboard features for both creators and users
+
+Your project aligns directly with my expertise. I can deliver a clean, responsive, and high-conversion website for your meme token, implement USDT swap mechanics, and set up auto-allocation logic tied to your token’s smart contract.
+
+With over 27 years of experience delivering high-performance SaaS platforms across fintech, AI, healthcare, and enterprise sectors. I specialize in TypeScript, React/React Native, .NET, PostgreSQL, and modern AI integrations, and I thrive when working directly with founders to turn vision into robust, production-grade systems.
+
+Over the years, I’ve built and scaled multiple SaaS platforms. For example,
+
+- GET ERP – ERP/CRM middleware for retail (React/.NET)
+
+- ApexChat – Real-time chat SaaS with WebRTC (React/.NET)
+
+- PopSocial – Crypto social platform (React/Spring Boot/AWS)
+
+- TradeSun – AI-powered trade finance SaaS (React/Node.js/AWS)
+
+- AARP MoneyMap – Personal finance management SaaS (React/GraphQL/Apollo/AWS)
+
+- SmallWorld – International money transfer system (React/Spring Boot/AWS)
+
+- TaksQue – Project management SaaS (Laravel/AWS)
+
+I have also built AI, Data, and Analytics platforms. For example,
+
+- SCEAI – Qatari government AI & analytics portal (Next.js/.NET/Azure AI)
+
+- RAG Q&A System – Python-based Retrieval-Augmented Generation system using Hugging Face and Google FLAN-T5
+
+- SeaWingAI.com – Designed and delivered a dozen AI-driven products including RAG pipelines, AI agents, and data visualizations
+
+- Telehealth AI MCP – A Claude-based desktop app integrated with FastAPI REST backend, summarizing 600+ page PDFs for diagnosis and treatment insights
+
+I’m fluent with tools like Prisma, Vercel, Stripe, OpenAI APIs, LangChain, FAISS, Hugging Face, and Azure OpenAI. I write clean, modular, and well-documented code, move fast, and deliver results with clarity and accountability.
+
+If you're looking for someone who can ship fast, work closely with founders, and has proven crypto project delivery, I’d love to connect.
+
+Best regards,
+Rafey

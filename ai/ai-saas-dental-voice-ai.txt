@@ -4,23 +4,33 @@ My name is Rafey. I have 27+ years of experience in developing and scaling SaaS 
 
 I have extensively worked on Python, RAG, AI Agentic Systems, MCP, pyTorch, Azure Open AI Service, LangChain, FAISS, AI Vector Databases, Stack AI, AI Chatbots using Botpress. I have worked on Telehealth AI, RAG and MCP systems. For Example,
 
-1. SCEAI Qatari AI, Data and Analytics Portal (B2G BI Portal. Used Azure AI/.NET) 
-2. RAG Q&A System (Python, Hugging Face, Google Flan T5)
-3. Designed around a dozen AI products at AI consultancy SeaWingAI.com
-4. I have built a Claud Desktop-based MCP for FastAPI REST backends for a telehealth platform for Appedology Pvt. Ltd. Doctors could upload 600+ pages of PDF and the AI pipeline generates summaries, medical issues, medication, procedure details, etc. The MCP Agent on top of the REST API helps doctors to use the Claud Desktop to research patient conditions like Vitamins, Symptoms, etc.
+- SCEAI Qatari AI, Data and Analytics Portal (B2G BI Portal. Used Azure AI/.NET) 
+
+- RAG Q&A System (Python, Hugging Face, Google Flan T5)
+
+- Designed around a dozen AI products at AI consultancy SeaWingAI.com
+
+- I have built a Claud Desktop-based MCP for FastAPI REST backends for a telehealth platform for Appedology Pvt. Ltd. Doctors could upload 600+ pages of PDF and the AI pipeline generates summaries, medical issues, medication, procedure details, etc. The MCP Agent on top of the REST API helps doctors to use the Claud Desktop to research patient conditions like Vitamins, Symptoms, etc.
 
 I’ve built AI-driven appointment schedulers and prompt orchestration layers using OpenAI function-calling, LangChain agents, and real-time messaging. Your use case of voice call flows with booking, insurance lookups, and reminders is exactly what I’ve handled in healthcare tech pilots.
 
 I’ve architected and modularized large-scale Node.js and Python applications across healthcare, fintech, and cloud SaaS. For Example,
 
-1. GET ERP SaaS (ERP/CRM middleware SaaS for retail industry. Used Azure/.NET)
-2. ApexChat Realtime Chat SaaS (B2C Chat SaaS. Used .NET at backend)
-3. SCEAI Qatari AI, Data and Analytics Portal (B2G BI Portal. Used Azure/.NET) 
-4. TaksQue SaaS (A project management SaaS platform. Used AWS/Laravel)
-5. PopSocial (A Crypto SasS. Used AWS/Springboot)
-6. TradeSun (AI powered Trade Finance SaaS. Used AWS/NodeJS)
-7. AARP MoneyMap (A personal finance SaaS. Used AWS/Apollo Client/Apollo Server/GraphQL)
-8. SmallWorld (A money transfer SaaS. Used AWS/Springboot)
+- GET ERP SaaS (ERP/CRM middleware SaaS for retail industry. Used Azure/.NET)
+
+- ApexChat Realtime Chat SaaS (B2C Chat SaaS. Used .NET at backend)
+
+- SCEAI Qatari AI, Data and Analytics Portal (B2G BI Portal. Used Azure/.NET) 
+
+- TaksQue SaaS (A project management SaaS platform. Used AWS/Laravel)
+
+- PopSocial (A Crypto SasS. Used AWS/Springboot)
+
+- TradeSun (AI powered Trade Finance SaaS. Used AWS/NodeJS)
+
+- AARP MoneyMap (A personal finance SaaS. Used AWS/Apollo Client/Apollo Server/GraphQL)
+
+- SmallWorld (A money transfer SaaS. Used AWS/Springboot)
 
 I am an AI and ML Integration expert with experience embedding AI/ML features into live systems using tools like OpenAI, LangChain, and custom ML models.
 

@@ -1,0 +1,83 @@
+Hello and Good Morning,
+
+My name is Rafey, and I’m a Full Stack Software Engineer with deep experience in developing and scaling SaaS platforms with AI integrations.
+
+I have extensively worked on Python, RAG, AI Agentic Systems, MCP, pyTorch, Azure Open AI Service, LangChain, FAISS, AI Vector Databases, Stack AI, AI Chatbots using Botpress. I have worked on Telehealth AI, RAG and MCP systems. For Example,
+
+With 27+ years in full-stack development and deep expertise in cross-platform apps, AI/NLP integrations, and complex API ecosystems, I’m confident in delivering a high-performance, white-label-ready product that exceeds your expectations for your AI-powered Personal Assistant app tailored for solo entrepreneurs.
+
+Proposed Tech Stack
+
+Frontend: React Native (for iOS & Android)
+
+Backend: Node.js + Firebase (scalable, real-time capabilities) or Python FastAPI, Docker, Kubernetes
+
+- AI/NLP: GPT-4 / OpenAI, LangChain, Deepgram/Whisper (voice-to-text)
+
+- Cloud: Firebase Auth + Firestore, Google Cloud Functions, Azure AI Services
+
+Integrations:
+
+- Gmail, Outlook, Google Calendar, Apple Calendar (CalDAV/EventKit), Office365
+
+- meta Cloud API
+
+- Skyscanner, Google Places, OpenWeather
+
+- Push notifications via Firebase and email alerts
+
+AI Capabilities
+I have designed and deployed multiple AI and NLP-based applications, including:
+
+- B2G AI SCEAI Qatari Economic Data Portal with dashboards, voice search, and NLP
+
+- AI RAG Q&A Systems using Hugging Face + Google Flan T5
+
+- AI RAG Medical Copilot Systems for Telehealth (PDF ingestion, summarization, and smart agentic querying). Voice-driven assistants integrating OpenAI and LangChain for complex task automation
+
+- Designed around a dozen AI products at AI consultancy SeaWingAI.com
+
+Relevant Experience
+- PopSocial ($PPT): Crypto SocialFi mobile app and token platform (React Native + AWS)
+
+- AARP MoneyMap: AI-driven finance planning (React Native/Apollo/GraphQL)
+
+Security & Scalability
+- Built GDPR-compliant SaaS apps handling sensitive financial/health data like AARP MoneyMap, DASH Healthcare
+
+- Experience in role-based access control, token-based auth, and audit logging like Small World, TradeSun, HBL
+
+- Multi-tenant design for 10,000+ users using Firebase, Redis, and PostgreSQL like HBL, Educational Justice
+
+I’ve architected and modularized large-scale Node.js and Python applications across healthcare, fintech, and cloud SaaS. For Example,
+
+- GET ERP SaaS (ERP/CRM middleware SaaS for retail industry. Used Azure/.NET)
+
+- ApexChat Realtime Chat SaaS (B2C Chat SaaS. Used .NET at backend)
+
+- TaksQue SaaS (A project management SaaS platform. Used AWS/Laravel)
+
+- TradeSun (AI powered Trade Finance SaaS. Used AWS/NodeJS)
+
+- AARP MoneyMap (A personal finance SaaS. Used AWS/Apollo Client/Apollo Server/GraphQL)
+
+- SmallWorld (A money transfer SaaS. Used AWS/Springboot)
+
+Availability & Pricing
+- Timezone: GMT+5 (Karachi Pakistan) – flexible overlap with US and EU hours
+
+- Availability: Immediate – full-time or project-based
+
+- Estimate: Based on features, I estimate $14,000 – $18,000 total, broken down into key milestones
+
+- MVP in 4–6 weeks | Full Launch-ready in 10–12 weeks
+
+- Hourly Rate: $40/hr (negotiable for long-term engagement)
+
+I’d love to bring your assistant to life — handling voice requests, syncing across calendars/emails, and delivering smart daily planning that truly helps entrepreneurs.
+
+Looking forward to connecting and discussing your vision in detail.
+
+Warm regards,
+Rafey
+Full Stack Software & AI Engineer | AI | Cloud | Python | ML | NodeJS | React Native
